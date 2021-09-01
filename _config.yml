@@ -1,6 +1,6 @@
 # Site settings
-title: towner
-SEOTitle: towner | My Blog
+title: piratesfirst    
+SEOTitle: piratesfirst | My Blog
 header-img: img/post-bg-desk.jpg
 email: apple314507871@gmail.com
 description: "跟随潮流，自建github page”
@@ -12,7 +12,7 @@ github_repo: "https://github.com/name/name.github.io.git" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "苟利国家生死以，岂因祸福避趋之~"
-sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_binggan.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
